@@ -190,6 +190,11 @@ header.masthead p {
   font-weight: 300;
 }
 
+header img.logo {
+	display: block;
+	margin: 0 auto;
+}
+
 @media (min-width: 768px) {
   header.masthead p {
     font-size: 1.15rem;
@@ -205,6 +210,10 @@ header.masthead p {
   }
   header.masthead h1 {
     font-size: 3rem;
+  }
+  header img.logo {
+	height: 40vh;
+    min-height: 380px;
   }
 }
 
