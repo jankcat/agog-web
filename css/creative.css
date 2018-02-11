@@ -193,6 +193,7 @@ header.masthead p {
 header img.logo {
 	display: block;
 	margin: 0 auto;
+	height: 40vh;
 }
 
 @media (min-width: 768px) {
@@ -212,7 +213,6 @@ header img.logo {
     font-size: 3rem;
   }
   header img.logo {
-	height: 40vh;
     min-height: 380px;
   }
 }
