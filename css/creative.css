@@ -328,6 +328,9 @@ header img.logo {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
 
+.client-title {
+   margin-bottom: 1em;
+}
 .client-logo {
    width:90%;
    margin-bottom: 1.5em;
