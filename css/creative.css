@@ -29,6 +29,14 @@ a:hover {
   color: #f05f40;
 }
 
+a.white-title {
+  color: #ffffff;
+}
+
+a.white-title:hover {
+  color: #ffffff;
+}
+
 h1,
 h2,
 h3,
